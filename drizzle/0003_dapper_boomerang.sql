@@ -1,0 +1,1 @@
+ALTER TABLE "transactions" ALTER COLUMN "date" SET DATA TYPE varchar(10);
